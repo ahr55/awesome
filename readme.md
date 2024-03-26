@@ -896,3 +896,6 @@
 - 
 ## Programs for making money from the Internet and working online
 
+* [Today's prices](https://www.pricestday.com/) economic grid
+* [Project ideas](https://projects-ideas.pricestday.com/) Ideas for successful and profitable projects
+* [Internet profit](https://profitinternet.pricestday.com/) Explanation of ways to profit from the Internet
