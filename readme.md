@@ -893,3 +893,14 @@
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 - [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
+- 
+<a href="https://www.pricestday.com/">اسعار اليوم </a>
+--------
+<a href="https://projects-ideas.pricestday.com/">افكار مشاريع </a>
+-----------
+<a href="https://profitinternet.pricestday.com/">الربح من الانترنت </a>
+---------
+<a href="https://cryptoandtrading.pricestday.com/">عملات مشفرة وتداول</a>
+
+
+
